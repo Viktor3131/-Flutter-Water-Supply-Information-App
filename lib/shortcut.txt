@@ -1,0 +1,3 @@
+stful i enter ke napravi nova strana.
+initstate
+setstate refresh na aplikacijata

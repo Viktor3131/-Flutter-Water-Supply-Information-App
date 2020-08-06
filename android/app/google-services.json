@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "564140468658",
+    "firebase_url": "https://imanema-5fe00.firebaseio.com",
+    "project_id": "imanema-5fe00",
+    "storage_bucket": "imanema-5fe00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564140468658:android:065defab4db7e927259cab",
+        "android_client_info": {
+          "package_name": "com.example.imanema"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564140468658-6gi8lfqc8gulcm90jnn9b72e3v2r410b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtHl61hxs21FZl7FJkLb_1LNtyEIKACH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564140468658-6gi8lfqc8gulcm90jnn9b72e3v2r410b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
