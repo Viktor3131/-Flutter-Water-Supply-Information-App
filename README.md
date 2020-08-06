@@ -1,4 +1,4 @@
-# imanema
+# Water Supply Information App
 
 A new Flutter project.
 
